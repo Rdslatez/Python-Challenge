@@ -1,3 +1,3 @@
-# Homework 3
+# Python Challenge
  
-# Files for the homework in the folders and names as requested
+# This challenge was done to show basic python skills, including reading in a CSV, and making calculations based on it's contents.
